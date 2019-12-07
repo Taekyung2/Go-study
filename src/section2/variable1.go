@@ -15,4 +15,17 @@ func main() {
 	var l = "Hi Seoul."
 	var m = true
 
+	fmt.Println("a : ", a)
+	fmt.Println("b : ", b)
+	fmt.Println("c : ", c)
+	fmt.Println("d : ", d)
+	fmt.Println("e : ", e)
+	fmt.Println("f : ", f)
+	fmt.Println("g : ", g)
+	fmt.Println("h : ", h)
+	fmt.Println("i : ", i)
+	fmt.Println("j : ", j)
+	fmt.Println("k : ", k)
+	fmt.Println("l : ", l)
+	fmt.Println("m : ", m)
 }
