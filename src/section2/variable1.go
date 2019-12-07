@@ -13,5 +13,6 @@ func main() {
 	var j string = "Hi! Golang!"
 	var k = 4.74 // 자동 타입 선언 -> auto
 	var l = "Hi Seoul."
+	var m = true
 
 }
